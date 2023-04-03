@@ -31,6 +31,11 @@
 ```bash
 $ yarn install
 ```
+##Installing NestJS
+npm i -g @nestjs/cli
+##Installing NodeJS
+https://nodejs.org/en/download/package-manager
+##Installing 
 
 ## Running the app
 
